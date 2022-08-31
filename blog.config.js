@@ -3,15 +3,15 @@ const BLOG = {
   author: '071',
   email: '',
   link: 'https://071wiki.cn',
-  description: '想不解决问题，做才会有改变',
+  description: '「想不解决问题，做才会有改变」',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2021, // If leave this empty, current year will be used.
-  postsPerPage: 7,
+  since: 2022, // If leave this empty, current year will be used.
+  postsPerPage: 10,
   sortByDate: false,
   showAbout: true,
   showArchive: true,
